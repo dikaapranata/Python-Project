@@ -1,0 +1,6 @@
+Budi,081231231,budi@gmail.com,0
+Andi,081231231,budi@gmail.com,0
+Fahrel,08123123,fahrel@gmail.com,0
+Nanda,081212313123,nanda@gmail.com,0
+Joni,081212313123,nanda@gmail.com,0
+Jono,085123123,jono@gmail.com,0

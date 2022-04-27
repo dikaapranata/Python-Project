@@ -1,0 +1,20 @@
+Fahrel,12/28/21 14:08:20,10000,Deposit
+Fahrel,01/01/22 14:08:20,10000,Deposit
+Fahrel,01/02/22 14:08:20,10000,Deposit
+Fahrel,01/04/22 15:35:28,50000,Deposit
+Budi,01/05/22 14:08:10,4000,Deposit
+Fahrel,01/05/22 15:35:28,-100,online shop
+Nanda,01/05/22 15:42:36,50000,Deposit
+Fahrel,01/05/22 15:44:25,50000,Deposit
+Fahrel,01/05/22 15:48:31,-10000,Indomaret
+Fahrel,01/09/22 20:34:48,1000,Deposit
+Fahrel,01/09/22 20:36:07,100000,Deposit
+Fahrel,01/09/22 20:36:57,1000,Deposit
+Fahrel,01/09/22 20:47:36,-20000,Warteg
+Fahrel,01/09/22 20:48:16,-50000,Transfer ke Nanda
+Nanda,01/09/22 20:48:16,50000,Transfer dari Fahrel
+Fahrel,01/09/22 21:06:25,-900,Permen
+Fahrel,01/09/22 21:06:39,-1000,Transfer ke Nanda
+Nanda,01/09/22 21:06:39,1000,Transfer dari Fahrel
+Nanda,01/09/22 21:15:43,5000,Deposit
+Jono,01/09/22 21:29:39,100000,Deposit

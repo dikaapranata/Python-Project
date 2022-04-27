@@ -1,0 +1,5 @@
+avanze_S#merah#bensin#10
+avanze_Q#merah#bensin#5
+kijang_V#biru#solar#3
+kijang_S#hitam#solar#5
+kijang_Q#merah#solar#4
